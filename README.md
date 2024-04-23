@@ -5,14 +5,7 @@
 
 # <span id="typed"></span>
 
-<script>
-  const typed = new Typed('#typed', {
-    strings: ["I'm Mohamed Atef"],
-    typeSpeed: 80,
-    backSpeed: 40,
-    loop: false
-  });
-</script>
+# Hey there, I'm Mohamed Atef! 👋
 
 ## 👨‍💻 DevOps Engineer
 
