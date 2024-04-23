@@ -30,4 +30,4 @@ I'm a passionate DevOps Engineer with expertise in various technologies and tool
 
 ## 📫 Connect with Me
 
-Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mohamed-atef-bb8929107/)!
+Feel free to reach out to me through [LinkedIn](https://www.linkedin.com/in/mohamed-atef-bb8929107/)! or via email at [mohamed.atef.nabeeh@gmail.com](mailto:mohamed.atef.nabeeh@gmail.com)!
