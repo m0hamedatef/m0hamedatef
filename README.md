@@ -3,7 +3,16 @@
   <img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="400" alt="Your Name">
 </p>
 
-# I'm Mohamed Atef 👋
+# <span id="typed"></span>
+
+<script>
+  const typed = new Typed('#typed', {
+    strings: ["I'm Mohamed Atef"],
+    typeSpeed: 80,
+    backSpeed: 40,
+    loop: false
+  });
+</script>
 
 ## 👨‍💻 DevOps Engineer
 
